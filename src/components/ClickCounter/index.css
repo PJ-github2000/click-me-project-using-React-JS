@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading{
+  color: #2d3a35;
+  font-size: 60px;
+  font-family: cursive;
+  width: 850px;
+  text-align: center;
+}
+.count{
+    color: blue;
+}
+.paragraph{
+    color: #2d3a35;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.button{
+    background-color: brown;
+    color: white;
+    border: 0px;
+    font-size: 25px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
